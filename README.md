@@ -99,6 +99,12 @@
     <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"/></a>
      &emsp;
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+   &emsp;
+    <a href="#"><img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white"/></a>
+   &emsp;
+    <a href="#"><img alt="Ploty" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/></a>
 </p>
 
 
