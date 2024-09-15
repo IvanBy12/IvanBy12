@@ -95,6 +95,10 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
     &emsp;
     <a href="#"><img alt="FastApi" src="https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white"/></a>
+     &emsp;
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"/></a>
+     &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
 </p>
 
 
