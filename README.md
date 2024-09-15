@@ -105,6 +105,12 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white"/></a>
    &emsp;
     <a href="#"><img alt="Ploty" src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img alt="Cisco" src="https://img.shields.io/badge/Cisco-0F274D?style=for-the-badge&logo=cisco&logoColor=white"/></a>
+    &emsp;
+    <a href="#"><img alt="DJango" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></a>
+    &emsp;
+    <a href="#"><img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/></a>
 </p>
 
 
@@ -125,3 +131,7 @@
 <br> 
 
 ---
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+![IvanBy12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanBy12&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
